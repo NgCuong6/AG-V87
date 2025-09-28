@@ -284,7 +284,7 @@ function initializeDownloadFlow() {
     }
 
     // Open YouTube video
-    window.open("https://m.youtube.com/watch?v=7HMBhuxuLCw", "_blank");
+    window.open("https://m.youtube.com/watch?v=I4w56EjYiG4", "_blank");
   });
 
   // Comment button
@@ -305,7 +305,7 @@ function initializeDownloadFlow() {
     }
 
     // Open YouTube video
-    window.open("https://m.youtube.com/watch?v=7HMBhuxuLCw", "_blank");
+    window.open("https://m.youtube.com/watch?v=I4w56EjYiG4", "_blank");
   });
 }
 
